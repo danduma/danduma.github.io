@@ -13,7 +13,7 @@
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font-size: 17pt;
+		font-size: 10pt;
 		font-weight: 300;
 		font: inherit;
 		vertical-align: baseline;
@@ -2262,7 +2262,7 @@ li.publication{
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 17pt;
+				font-size: 10pt;
 			}
 
 		/* Header */
