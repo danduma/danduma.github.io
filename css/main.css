@@ -13,7 +13,7 @@
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font-size: 14pt;
+		font-size: 15pt;
 		font-weight: 300;
 		font: inherit;
 		vertical-align: baseline;
@@ -1568,7 +1568,7 @@ table.cv{
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 16pt;
+		font-size: 15pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -1587,7 +1587,7 @@ table.cv{
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 16pt;
+		font-size: 15pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -2308,7 +2308,7 @@ li.publication{
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 14pt;
+				font-size: 15pt;
 			}
 
 			.container {
@@ -2383,7 +2383,7 @@ li.publication{
 			}
 
 			body, input, textarea, select {
-				font-size: 14pt;
+				font-size: 15pt;
 			}
 
 			header br {
@@ -2565,7 +2565,7 @@ li.publication{
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 14pt;
+				font-size: 15pt;
 			}
 
 			h2 {
